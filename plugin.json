@@ -1,0 +1,9 @@
+{
+    "name": "eFraudChecker Plugin",
+    "version": "1.2.0",
+    "download_url": "https://github.com/nexushand/efraudchecker-wp-plugin/raw/refs/heads/main/e-fraud-checker.zip",
+    "sections": {
+      "description": "Prevent fraud with eFraudChecker - analyze customer phone numbers for order history, courier usage, and returns"
+    }
+  }
+  
