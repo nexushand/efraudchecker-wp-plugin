@@ -16,7 +16,7 @@
     "changelog": "== 2.0.0 ==\n* Improved error handling and fallback messages\n* Performance and compatibility improvements\n\n== 1.0.0 ==\n* Initial release with fraud analysis by phone number"
   },
   "banners": {
-    "low": "https://efraudchecker.com/wp-content/uploads/banner-772x250.png",
-    "high": "https://efraudchecker.com/wp-content/uploads/banner-1544x500.png"
+    "low": "https://www.efraudchecker.com/static/images/home/hero_promo.png",
+    "high": "https://www.efraudchecker.com/static/images/home/hero_promo.png"
   }
 }
