@@ -1,7 +1,7 @@
 {
   "name": "eFraudChecker Plugin",
   "slug": "e-fraud-checker",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "NexusHand",
   "author_profile": "https://nexushand.com",
   "download_url": "https://github.com/nexushand/efraudchecker-wp-plugin/raw/refs/heads/main/e-fraud-checker.zip",
@@ -13,7 +13,7 @@
   "sections": {
     "description": "eFraudChecker helps Bangladeshi eCommerce and fCommerce sellers detect fraud by analyzing customer phone numbers. See order history, courier usage, delivery issues, and return rates before confirming orders. Works with WooCommerce and custom checkout forms.",
     "installation": "1. Download the ZIP file and upload it to your WordPress plugins.<br>2. Activate the plugin.<br>3. Go to 'Settings > eFraudChecker' to enter your API key.<br>4. Use it in WooCommerce, custom forms, or anywhere with customer phone numbers.",
-    "changelog": "== 2.0.0 ==<br>* Improved error handling and fallback messages<br>* Performance and compatibility improvements<br><br>== 1.0.0 ==<br>* Initial release with fraud analysis by phone number"
+    "changelog": "== 3.0.0 ==<br>* Improved error handling and fallback messages<br>* Performance and compatibility improvements<br><br>== 1.0.0 ==<br>* Initial release with fraud analysis by phone number"
   },
   "banners": {
     "low": "https://www.efraudchecker.com/static/images/home/hero_promo.png",
